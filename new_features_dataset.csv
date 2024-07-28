@@ -1,0 +1,5 @@
+property_type,location,city,province_name,purpose,agency,agent,Area Type,Area Category,price,area,price_zscore,price_per_sqft,floors
+house,loc1,Pakistan,Islamabad,buy,Agency1,Agent1,urban,residential,500000,2000,0.5,250,2
+apartment,loc2,Pakistan,Lahore,rent,Agency2,Agent2,suburban,commercial,600000,1500,0.7,400,1
+house,loc3,Pakistan,Karachi,buy,Agency3,Agent3,urban,residential,550000,1800,0.6,305,3
+apartment,loc4,Pakistan,Peshawar,rent,Agency4,Agent4,suburban,commercial,100000,2000,0.8,400,4
